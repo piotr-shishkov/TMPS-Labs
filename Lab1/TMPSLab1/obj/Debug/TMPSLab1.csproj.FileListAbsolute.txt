@@ -1,0 +1,7 @@
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\bin\Debug\TMPSLab1.exe.config
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\bin\Debug\TMPSLab1.exe
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\bin\Debug\TMPSLab1.pdb
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\obj\Debug\TMPSLab1.csprojAssemblyReference.cache
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\obj\Debug\TMPSLab1.csproj.CoreCompileInputs.cache
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\obj\Debug\TMPSLab1.exe
+D:\UTM\Anul3\TMPS\TMPS-Labs\Lab1\TMPSLab1\obj\Debug\TMPSLab1.pdb
